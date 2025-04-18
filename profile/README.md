@@ -15,10 +15,9 @@ Our mission is to create an ecosystem where:
 
 We're actively building the **VentureCircle platform** — here's what's in development:
 
-- `venturecircle-web`: 🌍 A modern web app (Django + Tailwind CSS)
-- `venturecircle-api`: ⚙️ RESTful backend for user, post, and comment management
-- `venturecircle-ml`: 🤖 AI-powered tools to recommend collaborators and highlight top content
-- `entre-score`: 🔢 A credibility scoring system based on skills, contributions, and community feedback
+- `LaunchPadAI`: 🌍 A modern web app (Django + Tailwind CSS)
+- `VentureCircle-ml`: 🤖 AI-powered tools to recommend collaborators and highlight top content
+- `EntreScore`: 🔢 A credibility scoring system based on skills, contributions, and community feedback
 
 ## 🧑‍💻 Contributing
 
